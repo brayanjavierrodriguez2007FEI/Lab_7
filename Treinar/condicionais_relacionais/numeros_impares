@@ -1,4 +1,0 @@
-impar = int(input("Qual é o ultimo número? "))
-for i in range (1, impar + 1):
-    if i % 2 != 0:
-        print (i)
